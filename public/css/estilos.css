@@ -1,0 +1,28 @@
+.app-header__logo {
+  font-size: 2.5rem !important;
+}
+.menu_superior:hover {
+  background-color: #009688 !important;
+  color: white !important;
+}
+.app-sidebar__user-avatar {
+  width: 25% !important;
+}
+.rol {
+  font-size: 12px !important;
+  color: green;
+}
+.detalles_label {
+  font-size: 16px;
+  font-weight: bold;
+}
+.detalles_info {
+  text-align: justify;
+}
+.videos > :only-child {
+  width: 360px !important;
+  height: 215px !important;
+}
+.nav-link{
+  color: white !important;
+}
